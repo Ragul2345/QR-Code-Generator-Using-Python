@@ -1,4 +1,4 @@
-## 📌 QR Code Generator Using Python
+## 📌 QR Code Generator Using Python ##
 # 📖 Project Description
 
 This project demonstrates how to generate a QR code using Python.
